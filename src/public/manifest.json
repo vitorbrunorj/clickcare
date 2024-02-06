@@ -1,0 +1,16 @@
+{
+  "name": "Click Care Saúde",
+  "short_name": "Click Care",
+  "description": "Click care saúde é uma empresa que oferece serviços hospitalares em casa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#d06985",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    }
+  ]
+}
